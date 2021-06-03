@@ -35,7 +35,7 @@ Don't worry. If the person isn't interested anymore, just go back to the post an
 <b>I didn't even post the dye. Why am I getting these DMs?</b><br><br>
 Don't worry. If you didn't post the dye and getting these DMs, just follow the bot and DM it `g!report [dye code] [a brief reason]`.<br>
 For example, if the bot sends you:<br>
-``Seems like @Lax is interested in your dye ($nd7g \discord.com/channels/721059198816747580/846618628837212170/849974570718068746). If you didn't post the dye or posted it by mistake, please type g!report $nd7g [a short explaination] so the mods can deal with it! Thank you!``<br>
+``Seems like @Lax is interested in your dye ($nd7g https://discord.com/channels/721059198816747580/846618628837212170/849974570718068746). If you didn't post the dye or posted it by mistake, please type g!report $nd7g [a short explaination] so the mods can deal with it! Thank you!``<br>
 DM the bot:
 ``g!report $nd7g I didn't post this dye but I am recieving the DMs. Can you check the logs for me?``<br>
 <img src='https://cdn.discordapp.com/attachments/846618628837212170/850004640836616203/unknown.png'><br>
