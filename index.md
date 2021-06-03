@@ -20,7 +20,7 @@ Congrats! Your dye is now sold. Please go back to the post and react `check`. Th
 ### Using the dye store (as a buyer):
 
 When you see a dye you would like to buy, just react to `ticket`! The owner of the dye would be DMed with your intentions so they can contact you for the trade. Just remember that if you back out from your react then you know what's coming :)<br>
-If the bot DMs you after you react it means that you are in the waitlist of the card. The bot will dm you when you are the new buyer!
+If the bot DMs you after you react it means that you are in the waitlist of the dye. The bot will dm you when you are the new buyer!
 
 ### Other rules you must follow in the store:
 
@@ -31,7 +31,7 @@ If the bot DMs you after you react it means that you are in the waitlist of the 
 
 ### FAQs
 <b>The person isn't interested anymore. What the heck?</b><br><br>
-Don't worry. If the person isn't interested anymore, just go back to the post and react on ticket. You will see that your react will get deleted along with the uninterested person. The person wouldn't go unscathed though. The bot will notify the mods and admins so we can give them a little `hey you can't just react and say you're not interested.` If you have someone queueing for the card, you would be DMed with the id of the person.<br><br>
+Don't worry. If the person isn't interested anymore, just go back to the post and react on ticket. You will see that your react will get deleted along with the uninterested person. The person wouldn't go unscathed though. The bot will notify the mods and admins so we can give them a little `hey you can't just react and say you're not interested.` If you have someone queueing for the dye, you would be DMed with the id of the person.<br><br>
 <b>I didn't even post the dye. Why am I getting these DMs?</b><br><br>
 Don't worry. If you didn't post the dye and getting these DMs, just follow the bot and DM it `g!report [dye code] [a brief reason]`.<br>
 For example, if the bot sends you:<br>
@@ -39,7 +39,7 @@ For example, if the bot sends you:<br>
 DM the bot:
 ``g!report $nd7g I didn't post this dye but I am recieving the DMs. Can you check the logs for me?``<br>
 <img src='https://cdn.discordapp.com/attachments/846618628837212170/850004640836616203/unknown.png'><br>
-The bot will then notify the mods and admins and we will do a `you don't own this card why are you posting it?` :) <br><br>
+The bot will then notify the mods and admins and we will do a `you don't own this dye why are you posting it?` :) <br><br>
 <b>I can only see invalid-user as the buyer. What should I do?</b><br><br>
 If you see invalid-user, please DM an admin, moderator or helper and they can get the id and the username of the buyer for you!<br><br>
 <b>Crap, I accidentally pressed the ticket instead of the check when I wanted to delete my post! What should I do?</b><br><br>
