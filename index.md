@@ -24,7 +24,7 @@ If the bot DMs you after you react it means that you are in the waitlist of the 
 
 ### Other rules you must follow in the store:
 
-1. You must not post other's dye in the store. If you do you will get <b>BANNED FROM THE ENTIRE SERVER</b>, as simple as that.
+1. You must not post others' dyes in the store. If you do you will get <b>BANNED FROM THE ENTIRE SERVER</b>, as simple as that.
 2. You must not troll react on other people's dyes. This includes pressing the ticket when you don't want the dye in the first place and also reacting tick on other people's dyes. If you do that by accident please DM an admin or mod. Second offence without contacting a mod will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
 3. You must not demand more than what you posted in the store. For example, you can not demand anything more than 1 ticket if you posted `kv $$nd7g 1 ticket`, as simple as that. 2 offences will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
 4. Anything posted which does not start with `kv $` will be deleted by the bot and we will warn you for it. 2 offences will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
@@ -41,7 +41,9 @@ DM the bot:
 <img src='https://cdn.discordapp.com/attachments/846618628837212170/850004640836616203/unknown.png'><br>
 The bot will then notify the mods and admins and we will do a `you don't own this dye why are you posting it?` :) <br><br>
 <b>I can only see invalid-user as the buyer. What should I do?</b><br><br>
-If you see invalid-user, please DM an admin, moderator or helper and they can get the id and the username of the buyer for you!<br><br>
+If you see invalid-user, check the message again on your PC. Android phones often show invalid-user.
+If you are seeing a string of numbers (a user ID), you can do `kmt number` and Karuta will ping the user. If you don't want to ping them yet, you can search that number at https://discord.id/ and it will tell you the user.
+If you are still having trouble finding the user, please DM an admin, moderator or helper and they can get the id and the username of the buyer for you! **DO NOT PRESS THE TICKET. YOU WILL REPORT THE USER WHICH WILL GET YOU WARNED.**<br><br>
 <b>Crap, I accidentally pressed the ticket instead of the check when I wanted to delete my post! What should I do?</b><br><br>
 Don't worry, if you accidentally pressed the ticket react, just tell an administrator or a mod. They won't warn you if you tell them. But if you do forget you will be warned in your second offence!<br><br>
 
